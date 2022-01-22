@@ -2,7 +2,7 @@
   "name": "course-1-context",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/mt-torres/orgs",
+  "homepage": "https://mt-torres.github.io/orgs/",
   "dependencies": {
     "@material-ui/core": "^4.12.1",
     "@material-ui/icons": "^4.11.2",
@@ -24,7 +24,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-    
   },
   "eslintConfig": {
     "extends": [
@@ -43,5 +42,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }

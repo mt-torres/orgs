@@ -8,7 +8,7 @@ import { PagamentoProvider } from "common/context/pagamento";
 
 function Router() {
      return (
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
             <Switch>
                 <UsuarioProvider>
                     <Route exact path="/">
