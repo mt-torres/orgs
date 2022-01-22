@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mt-torres/orgs/static/css/main.d5eb81a0.chunk.css",
-    "main.js": "/mt-torres/orgs/static/js/main.351ccd1b.chunk.js",
-    "main.js.map": "/mt-torres/orgs/static/js/main.351ccd1b.chunk.js.map",
-    "runtime-main.js": "/mt-torres/orgs/static/js/runtime-main.6e052f0d.js",
-    "runtime-main.js.map": "/mt-torres/orgs/static/js/runtime-main.6e052f0d.js.map",
-    "static/js/2.895f35dc.chunk.js": "/mt-torres/orgs/static/js/2.895f35dc.chunk.js",
-    "static/js/2.895f35dc.chunk.js.map": "/mt-torres/orgs/static/js/2.895f35dc.chunk.js.map",
-    "index.html": "/mt-torres/orgs/index.html",
-    "static/css/main.d5eb81a0.chunk.css.map": "/mt-torres/orgs/static/css/main.d5eb81a0.chunk.css.map",
-    "static/js/2.895f35dc.chunk.js.LICENSE.txt": "/mt-torres/orgs/static/js/2.895f35dc.chunk.js.LICENSE.txt",
-    "static/media/logo.9b0af82e.svg": "/mt-torres/orgs/static/media/logo.9b0af82e.svg"
+    "main.css": "/orgs/static/css/main.d5eb81a0.chunk.css",
+    "main.js": "/orgs/static/js/main.351ccd1b.chunk.js",
+    "main.js.map": "/orgs/static/js/main.351ccd1b.chunk.js.map",
+    "runtime-main.js": "/orgs/static/js/runtime-main.868b0d59.js",
+    "runtime-main.js.map": "/orgs/static/js/runtime-main.868b0d59.js.map",
+    "static/js/2.beb778c7.chunk.js": "/orgs/static/js/2.beb778c7.chunk.js",
+    "static/js/2.beb778c7.chunk.js.map": "/orgs/static/js/2.beb778c7.chunk.js.map",
+    "index.html": "/orgs/index.html",
+    "static/css/main.d5eb81a0.chunk.css.map": "/orgs/static/css/main.d5eb81a0.chunk.css.map",
+    "static/js/2.beb778c7.chunk.js.LICENSE.txt": "/orgs/static/js/2.beb778c7.chunk.js.LICENSE.txt",
+    "static/media/logo.9b0af82e.svg": "/orgs/static/media/logo.9b0af82e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6e052f0d.js",
-    "static/js/2.895f35dc.chunk.js",
+    "static/js/runtime-main.868b0d59.js",
+    "static/js/2.beb778c7.chunk.js",
     "static/css/main.d5eb81a0.chunk.css",
     "static/js/main.351ccd1b.chunk.js"
   ]
