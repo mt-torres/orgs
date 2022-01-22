@@ -12,10 +12,15 @@ Orgs offer to its clients the best organics vegetables and fruits from the city.
 ### Steps to buy Orgs products:  
 
 1. Insert you user name and balance (this balance was previously bought)
+![image](documentation/Screenshot_login.png)
 2. Add your products to cart
-3. Clik on cart icon
-4. Select the payment method (there are desconts for somepayments way) and then click on buy buttom
+![image](documentation/Screenshot_feira.png)
+3. Clik on cart icon  
+![image](documentation/Screenshot_cart.png)
+4. Select the payment method (there are desconts for somepayments way) and then click on buy buttom  
+![image](documentation/Screenshot_finalizando.png)
 5. the purchase price will be automatically  discounted from Your balance
+![image](documentation/Screenshot_confirmacao.png)
 
 
 ## :dart: What I've learned
